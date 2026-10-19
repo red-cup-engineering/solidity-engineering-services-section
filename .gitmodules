@@ -1,0 +1,4 @@
+[submodule "solidity-search-path-for-relations"]
+	path = services/search-path-for-relations
+	url = https://github.com/red-cup-engineering/solidity-search-path-for-relations.git
+	branch = main
