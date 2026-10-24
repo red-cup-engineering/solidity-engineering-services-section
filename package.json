@@ -1,11 +1,11 @@
 {
-  "name": "@red-cup-engineering/solidity-services-section",
+  "name": "@red-cup-engineering/solidity-engineering-services-section",
   "version": "0.1.2",
   "type": "module",
   "description": "Solidity-specific software-development services.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/solidity-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/solidity-engineering-services-section.git"
   },
   "scripts": {
     "check": "node --check services/search-path-for-relations/src/search-solidity-path-for-relations.mjs && node --check services/search-path-for-relations/scripts/search-path-for-relations.mjs",
