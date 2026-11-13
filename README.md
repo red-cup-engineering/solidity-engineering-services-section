@@ -20,7 +20,7 @@ each reference by kind (declaration, import, construction, deployment
 target, compiled artifact, selector reference, call/cast, or plain symbol
 reference). It is the Solidity parameterization of the language-neutral
 [`search-path-for-relations`](../search-path-for-relations) package. See
-[`services/search-path-for-relations`](services/search-path-for-relations)
+[`services/solidity-search-path-for-relations`](services/solidity-search-path-for-relations)
 for install, usage, and API details.
 
 ## Development
