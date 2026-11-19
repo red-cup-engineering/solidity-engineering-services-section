@@ -1,0 +1,24 @@
+{
+  "name": "@red-cup-engineering/solidity-engineering-services-section",
+  "version": "0.1.4-dev.0",
+  "type": "module",
+  "description": "Solidity-specific software-development services.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/solidity-engineering-services-section.git"
+  },
+  "scripts": {
+    "check": "node --check services/solidity-search-path-for-relations/src/search-solidity-path-for-relations.mjs"
+  },
+  "private": false,
+  "files": [
+    "package.json",
+    "README*",
+    "LICENSE*"
+  ],
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
+}
